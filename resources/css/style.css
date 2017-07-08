@@ -24,3 +24,17 @@ h2 {
   color: White;
   text-align: center;
 }
+
+.description {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+
+.copyright {
+  font-family: Verdana;
+  color: Gray;
+  font-size: 21px;
+  text-align: right;
+}
