@@ -16,3 +16,11 @@ a {
   font-size: 16px;
   font-weight: bold;
 }
+
+h2 {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+  color: White;
+  text-align: center;
+}
